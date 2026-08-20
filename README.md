@@ -7,8 +7,9 @@ Tasks:
 
 - make a commit 
 - push to remote
-- resolve a conflict
+- Make a change on the remote
 - pull from remote
-
-
+- resolve a conflict
 - Push to remote after solving
+
+
