@@ -11,5 +11,6 @@ Tasks:
 - pull from remote
 - resolve a conflict
 - Push to remote after solving
+- Cleanly pull from remote and push a new local change
 
 
