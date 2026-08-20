@@ -7,4 +7,5 @@ Tasks:
 
 - make a commit 
 - push to remote
+- Make a change on the remote
 - pull from remote
